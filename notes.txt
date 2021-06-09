@@ -1,0 +1,25 @@
+1. github account
+
+2. create new repo
+
+3. gitpod login with github
+
+4. copy github repo url
+
+5. "gitpod.io/#YourRepoURL"
+
+6. create a folder called 'public'
+
+7. create file called 'index.html' in public and add some html
+
+8. in the gitpod terminal run 'apachectl restart' and choose 'open browser'
+
+9. create css file and add some css
+
+10. add a link tag to the top of index.html use google
+
+11. add a file called myScript.js
+
+12. add a script tag to link your js file to index.html
+
+13. add some javascript
