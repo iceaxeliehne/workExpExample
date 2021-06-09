@@ -23,3 +23,14 @@
 12. add a script tag to link your js file to index.html
 
 13. add some javascript
+
+14. go to source controll
+
+15. stage all changes
+
+16. add a message and commit
+
+17. push changes to github
+
+
+
